@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+aws_dbt_snowflake_project/profiles.yml
